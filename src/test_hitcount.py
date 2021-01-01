@@ -2,6 +2,7 @@
 #
 #########################################
 import unittest
+import error_hitcount
 from unittest.mock import patch
 
 import mockredis
